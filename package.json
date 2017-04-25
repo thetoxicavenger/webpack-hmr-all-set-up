@@ -18,7 +18,11 @@
   },
   "dependencies": {
     "react": "^15.5.4",
+    "react-addons-css-transition-group": "^15.5.2",
+    "react-addons-transition-group": "^15.5.2",
     "react-dom": "^15.5.4",
-    "react-hot-loader": "next"
+    "react-hot-loader": "next",
+    "react-md": "^1.0.12",
+    "webfontloader": "^1.6.27"
   }
 }
